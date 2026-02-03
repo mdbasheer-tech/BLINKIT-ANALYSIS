@@ -1,3 +1,4 @@
+![image alt](https://github.com/mdbasheer-tech/BLINKIT-ANALYSIS/blob/5e0b2bf8f6c125c5531d2f712673637930dd7f3f/final%20dashboard.png)
 Blinkit Analysis Project (Power BI + Excel)
 
 Project Overview
