@@ -13,7 +13,7 @@ The Excel dataset contained item-level sales data, outlet details, fat content c
 
 Business Requirement
 To conduct a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution in order to identify key insights and optimization opportunities using KPIs and visualizations in Power BI.
-![image alt](https://github.com/mdbasheer-tech/BLINKIT-ANALYSIS/blob/5e0b2bf8f6c125c5531d2f712673637930dd7f3f/final%20dashboard.png)
+![image alt](https://github.com/mdbasheer-tech/BLINKIT-ANALYSIS/blob/8c7fc4bab66c9e3405bb4572ec051e4795812577/project%20requirements.png)
 KPI Requirements Implemented
 
 Total Sales
